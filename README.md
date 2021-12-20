@@ -87,7 +87,7 @@ Publish the website in the given URL.
 </html>
 ```
 ### products Page:
-
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -200,9 +200,9 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-      
+```      
  ### people Page:     
-
+```
  <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -275,9 +275,9 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-      
+```      
 ### contact_us Page:
-      
+ ```     
 !DOCTYPE html>
 <html lang="en">
   <head>
@@ -316,9 +316,9 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>   
-
+```
 ### css layout page:
-
+```
 * {
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
@@ -456,7 +456,7 @@ body {
   margin: 0px 0px 0px 0px;
   color: #9c1018;
 }
-
+```
 ## OUTPUT:
 
 ### Home Page:
