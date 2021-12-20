@@ -37,7 +37,7 @@ Publish the website in the given URL.
 ## PROGRAM :
 
 ### Home Page:
-
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -85,7 +85,7 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+```
 ### products Page:
 
 <!DOCTYPE html>
